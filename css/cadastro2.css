@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img/Design\ sem\ nome.png);
+    background-size: auto;
+}
+
+.Registrar{
+    width: 400px;
+    background: rgb(121, 121, 121);
+    padding: 30px;
+    margin: auto;
+    margin-top: 150px;
+    font-family: 'Calibri';
+    color: rgb(255, 255, 255);
+    box-shadow: 7px 13px 37px #000;
+}
+
+.Registrar h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.controle {
+    width: 100%;
+    background-color: rgb(221, 221, 221);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(7, 7, 7);
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Registrar p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.Registrar a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.Registrar a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+.Registrar .botão {
+    width: 100%;
+    background: rgb(43,43 , 43);
+    border: none;
+    padding: 12px;
+    color: rgb(255, 255, 255);
+    margin: 16px 0;
+    font-size: 16px;
+}
